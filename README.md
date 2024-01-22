@@ -12,3 +12,9 @@ The name is self-explanatory
 1. Supreme Magus
 2. Grand Ancestral Bloodlines
 3. The Author's POV
+---
+*Here are some anime I am currently watching*
+
+- Demon Slayer
+- Naruto
+- Solo Leveling
