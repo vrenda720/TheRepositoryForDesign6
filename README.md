@@ -1,2 +1,2 @@
 # TheRepositoryOfAllTime
-The name is self explanatory
+The name is self-explanatory
