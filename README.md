@@ -1,6 +1,9 @@
 # TheRepositoryOfAllTime
 The name is self-explanatory
 
+```py
+print("Hello World")
+```
 
 ## This is my repository
 **Created by Vincent Renda** [LinkedIn](https://www.linkedin.com/in/vincent-renda/)
