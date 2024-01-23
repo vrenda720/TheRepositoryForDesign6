@@ -7,7 +7,7 @@ print("Hello World")
 
 ## This is my repository
 **Created by Vincent Renda** [LinkedIn](https://www.linkedin.com/in/vincent-renda/)
-> Nah I'd Win
+> Nah I'd Win -Him
 
 ![This could be an image](https://ih1.redbubble.net/image.4929189881.5673/st,small,507x507-pad,600x600,f8f8f8.jpg)
 
@@ -17,9 +17,13 @@ print("Hello World")
 2. Grand Ancestral Bloodlines
 3. The Author's POV
 ---
-*Here are some anime I am currently watching*
+*Here are some anime I have watched*
 
 - Demon Slayer
+  + Not Finished
 - Naruto
+  + Finished
 - Solo Leveling
-- Not One Piece
+  + Not Finished
+
+~~heading~~, ~~bold~~, ~~italic~~, ~~block quote~~, ~~ordered list~~, ~~unordered list~~, ~~code~~, ~~horizontal rule~~, ~~link~~, ~~image~~
