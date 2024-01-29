@@ -1,4 +1,4 @@
-# TheRepositoryOfAllTime
+# TheRepositoryForDesign6
 This is my repository for Design VI
 
 ```py
