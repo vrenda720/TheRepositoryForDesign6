@@ -4,10 +4,10 @@
 
 ### Half Adder
 
-![This could be an image](images/ghdlterminal.png)
-![This could be an image](images/ghdlwave.png)
+![Half adder terminal](images/ghdlterminal.png)
+![gtkwave half adder](images/ghdlwave.png)
 
 ### D Flip-Flop
 
-![This could be an image](images/ghdlterminal2.png)
-![This could be an image](images/ghdlwave2.png)
+![D Flip Flop terminal](images/ghdlterminal2.png)
+![gtkwave D Flip Flop](images/ghdlwave2.png)
