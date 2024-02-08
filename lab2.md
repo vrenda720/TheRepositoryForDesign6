@@ -22,6 +22,8 @@
 
 ![Image](images/lab2_terminalman61.png)
 
+![Image](images/lab2_terminal62.png)
+
 ![Image](images/lab2_terminal7.png)
 
 ![Image](images/lab2_terminal8.png)
