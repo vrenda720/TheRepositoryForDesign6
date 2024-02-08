@@ -27,3 +27,5 @@ print("Hello World")
   + Not Finished
 
 ~~heading~~, ~~bold~~, ~~italic~~, ~~block quote~~, ~~ordered list~~, ~~unordered list~~, ~~code~~, ~~horizontal rule~~, ~~link~~, ~~image~~
+
+<!-- control + shift + v  to open preview-->
