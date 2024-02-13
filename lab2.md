@@ -2,11 +2,7 @@
 
 ## Lab 2
 
-### fg
-
 ![Image](images/lab2_terminal1.png)
-
-### fh
 
 ![Image](images/lab2_terminal2.png)
 
