@@ -20,6 +20,8 @@
 
 ![Image](images/lab2_terminal62.png)
 
+![Image](images/lab2_terminal63.png)
+
 ![Image](images/lab2_terminal7.png)
 
 ![Image](images/lab2_terminal8.png)
