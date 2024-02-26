@@ -1,6 +1,6 @@
 # TheRepositoryForDesign6
 
-## Lab 3
+## Lab 4
 
 ![Image](images/lab4_stevenstemp.png)
 
